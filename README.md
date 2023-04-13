@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello
 
 #### I am Taha, passionate about building scalable and efficient solutions using the power of Deep Learning and Computer Vision, currently working as a Lead AI Developer. I am a highly motivated and hard-working individual with proven leadership, technical and communication skills. I am a lifelong learner as I grow in my professional career.
 
