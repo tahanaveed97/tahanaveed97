@@ -4,7 +4,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=tahanaveed97&layout=compact&show_icons=true&theme=highcontrast&count_private=true&hide=contribs,prs,issues" width="400">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahanaveed97&layout=compact&show_icons=true&theme=highcontrast" width="400">
-[![Taha's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tahanaveed97)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tahanaveed97">
 
 
 - 📫 How to reach me: <br/> <br/>
