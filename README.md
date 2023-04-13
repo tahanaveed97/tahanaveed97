@@ -7,5 +7,5 @@
 
 
 - 📫 How to reach me: <br/> <br/>
-LinkedIn: https://www.linkedin.com/in/tahanaveedmirza
+LinkedIn: https://www.linkedin.com/in/tahanaveedmirza <br/> <br/>
 Email: tahanaveed@hotmail.com
