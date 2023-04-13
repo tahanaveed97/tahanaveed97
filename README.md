@@ -7,4 +7,4 @@
 
 
 - 📫 How to reach me: <br/> <br/>
-LinkedIn: tahanaveedmirza/
+LinkedIn: https://www.linkedin.com/in/tahanaveedmirza
