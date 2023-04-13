@@ -8,3 +8,4 @@
 
 - 📫 How to reach me: <br/> <br/>
 LinkedIn: https://www.linkedin.com/in/tahanaveedmirza
+Email: tahanaveed@hotmail.com
