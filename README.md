@@ -16,16 +16,16 @@ With deep domain knowledge in research and real-world AI deployment, I focus on 
 ## 🧩 Areas of Expertise
 
 - **Deep Learning** – CNNs, RNNs, Transformers, GANs  
-- **Computer Vision** – Object Detection, Segmentation, Classification, Tracking   
+- **Computer Vision** – Object Detection, Segmentation, Classification, Tracking  
 - **Model Optimization** – ONNX, TensorRT, Quantization, Pruning  
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, C++
-- **Frameworks:** PyTorch, TensorFlow, OpenCV, FastAPI, Flask, Django
-- **DevOps & Tooling:** Docker, Git, Streamlit
+- **Languages:** Python, C++  
+- **Frameworks:** PyTorch, TensorFlow, OpenCV, FastAPI, Flask, Django  
+- **DevOps & Tooling:** Docker, Git, Streamlit  
 - **Cloud:** AWS, GCP  
 - **Databases:** PostgreSQL, MongoDB, SQLite  
 - **Practices:** REST APIs, Linux, CI/CD  
@@ -35,9 +35,23 @@ With deep domain knowledge in research and real-world AI deployment, I focus on 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahanaveed97&count_private=true&show_icons=true&theme=highcontrast&hide=contribs,prs,issues" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahanaveed97&count_private=true&show_icons=true&theme=highcontrast&hide=prs,issues" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahanaveed97&layout=compact&show_icons=true&theme=highcontrast" width="400" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tahanaveed97&theme=highcontrast&hide_border=true" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahanaveed97&theme=github_dark" width="400" />
+</p>
+
+---
+
+## 📈 Contribution Highlights
+
+- ✅ **Total Commits (Public + Private):** _Displayed via stats above_  
+- 📆 **Active Contributor in 2024 & 2025** *(see streak & contribution calendar above)*  
+- 🗂️ **Total Projects (Repos):** Public + Private — _Count visible in GitHub Repositories tab_  
+  > 💡 Tip: Pin key repositories on your profile for better visibility
 
 ---
 
@@ -63,3 +77,5 @@ I'm always open to exciting AI collaborations, research partnerships, and knowle
 - 📧 Email: tahanaveed@hotmail.com  
 
 ---
+
+## 🚀 Let's Build the Future with AI
