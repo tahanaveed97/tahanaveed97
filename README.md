@@ -33,27 +33,17 @@ With deep domain knowledge in research and real-world AI deployment, I focus on 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/-Seaborn-9A1EAE?style=flat&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Requests](https://img.shields.io/badge/-Requests-0052CC?style=flat&logo=requests&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat&logo=beautifulsoup&logoColor=white)
-![Scrapy](https://img.shields.io/badge/-Scrapy-EE4B2B?style=flat&logo=scrapy&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-CA4245?style=flat&logo=sqlalchemy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-![Dash](https://img.shields.io/badge/-Dash-0174C1?style=flat&logo=dash&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat&logo=celery&logoColor=white)
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apache-airflow&logoColor=white)
 
 ### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
 
@@ -71,17 +61,9 @@ With deep domain knowledge in research and real-world AI deployment, I focus on 
 
 ---
 
-## 📈 Contribution Highlights
-
-- ✅ **Total Commits (Public + Private):** Automatically updated via stats above  
-- 📆 **Active Contributor in 2024 & 2025**  
-- 🗂️ **Total Projects (Repos):** Public + Private combined — _visible in GitHub stats_
-
----
-
 ## 🧠 Currently Exploring
 
-- 🤖 **Generative AI** – Diffusion Models, Large Language Models, Prompt Engineering  
+- 🤖 **Generative AI** – Diffusion Models, Large Language Models (LLM), Vision Language Models (VLM)
 
 ---
 
