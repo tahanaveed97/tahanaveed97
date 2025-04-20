@@ -35,23 +35,14 @@ With deep domain knowledge in research and real-world AI deployment, I focus on 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahanaveed97&count_private=true&show_icons=true&theme=highcontrast&hide=prs,issues" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahanaveed97&layout=compact&show_icons=true&theme=highcontrast" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahanaveed97&count_private=true&show_icons=true&theme=highcontrast&hide=prs,issues&include_all_commits=true" width="430"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahanaveed97&layout=compact&show_icons=true&theme=highcontrast" width="430"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=tahanaveed97&theme=highcontrast&hide_border=true" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahanaveed97&theme=github_dark" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tahanaveed97&theme=highcontrast&hide_border=true" width="430"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tahanaveed97&theme=github_dark" width="430"/>
 </p>
-
----
-
-## 📈 Contribution Highlights
-
-- ✅ **Total Commits (Public + Private):** _Displayed via stats above_  
-- 📆 **Active Contributor in 2024 & 2025** *(see streak & contribution calendar above)*  
-- 🗂️ **Total Projects (Repos):** Public + Private — _Count visible in GitHub Repositories tab_  
-  > 💡 Tip: Pin key repositories on your profile for better visibility
 
 ---
 
@@ -77,5 +68,3 @@ I'm always open to exciting AI collaborations, research partnerships, and knowle
 - 📧 Email: tahanaveed@hotmail.com  
 
 ---
-
-## 🚀 Let's Build the Future with AI
