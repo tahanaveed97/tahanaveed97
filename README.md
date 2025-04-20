@@ -7,18 +7,18 @@
 
 ## 👨‍💻 About Me
 
-I am a results-driven AI professional with a solid track record in designing and deploying end-to-end deep learning and computer vision solutions. Currently, I am leading AI initiatives as a **Lead AI Developer**, where I drive innovation through hands-on technical leadership, strategic planning, and effective collaboration.
+I am a results-driven AI professional with a proven track record in building and deploying end-to-end deep learning and computer vision systems. Currently serving as a **Lead AI Developer**, I bring strong technical leadership, cross-functional collaboration, and hands-on expertise to drive impactful AI initiatives.
 
-With a background in research and real-world applications, I specialize in building scalable AI systems that bridge the gap between experimentation and production.
+With deep domain knowledge in research and real-world AI deployment, I focus on delivering optimized, scalable, and production-ready machine learning solutions.
 
 ---
 
 ## 🧩 Areas of Expertise
 
-- **Deep Learning & Neural Networks** – CNNs, RNNs, GANs, Transformers  
-- **Computer Vision** – Image classification, object detection, segmentation, tracking  
-- **Model Optimization & Deployment** – ONNX, TensorRT, quantization, pruning  
-- **MLOps** – ML lifecycle, reproducibility (DVC), experiment tracking (MLflow), CI/CD  
+- **Deep Learning** – CNNs, RNNs, Transformers, GANs  
+- **Computer Vision** – Object Detection, Segmentation, Classification, Tracking  
+- **MLOps** – ML Pipelines, Experiment Tracking, Model Versioning  
+- **Model Optimization** – ONNX, TensorRT, Quantization, Pruning  
 - **Cloud & Edge AI** – AWS, Azure, GCP, NVIDIA Jetson, OpenVINO  
 
 ---
@@ -26,18 +26,18 @@ With a background in research and real-world applications, I specialize in build
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, C++, Bash, JavaScript  
-- **Frameworks & Libraries:** PyTorch, TensorFlow, OpenCV, FastAPI, Scikit-learn  
+- **Frameworks:** PyTorch, TensorFlow, OpenCV, FastAPI, Scikit-learn  
 - **DevOps & Tooling:** Docker, Git, MLflow, DVC, Streamlit, Airflow  
-- **Cloud Platforms:** AWS, Azure, GCP  
+- **Cloud:** AWS, Azure, GCP  
 - **Databases:** PostgreSQL, MongoDB, SQLite  
-- **Other:** Agile, REST APIs, Linux, VSCode
+- **Practices:** Agile, REST APIs, Linux, CI/CD  
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahanaveed97&layout=compact&show_icons=true&theme=highcontrast&count_private=true&hide=contribs,prs,issues" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahanaveed97&count_private=true&show_icons=true&theme=highcontrast&hide=contribs,prs,issues" width="400" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahanaveed97&layout=compact&show_icons=true&theme=highcontrast" width="400" />
 </p>
 
@@ -45,29 +45,30 @@ With a background in research and real-world applications, I specialize in build
 
 ## 🧠 Currently Exploring
 
-- 🔍 **Generative AI** – Stable Diffusion, LLMs, prompt engineering  
-- 🔍 **AI on Edge** – Deploying efficient CV models on constrained devices  
-- 🔍 **Responsible AI** – Fairness, interpretability, and ethical considerations  
+- 🤖 **Generative AI** – Diffusion Models, Large Language Models, Prompt Engineering  
+- 🛰️ **Edge AI** – Real-time inference on resource-constrained devices  
+- 🧭 **Responsible AI** – Interpretability, Fairness, Ethical AI systems  
+
+---
+
+## 🏆 Highlights & Achievements
+
+- 🔹 Led multiple AI/ML projects from R&D to production across industries  
+- 🔹 Developed real-time vision systems for industrial and automation use cases  
+- 🔹 Mentor and guide junior developers and AI interns  
+- 🔹 Contributor to open-source projects and Kaggle competitions  
 
 ---
 
 ## 📬 Get in Touch
 
-I’m always open to collaborating on impactful projects or discussing the latest in AI and tech.
+I'm always open to exciting AI collaborations, research partnerships, and knowledge sharing.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tahanaveedmirza)  
 - 📧 Email: tahanaveed@hotmail.com  
 
 ---
 
-## 🏆 Highlights & Achievements
+## 🚀 Let’s Build the Future with AI
 
-- 🏅 Successfully led multiple AI projects from concept to deployment in production environments  
-- 🧠 Built real-time computer vision systems for industrial applications  
-- 🎓 Lifelong learner – constantly upskilling through courses, research, and hands-on practice  
-- 🤝 Mentored junior developers and AI interns across multiple teams  
-
----
-
-## 🚀 Let's Build the Future with AI
-If you're working on something exciting or looking to innovate with AI—I'd love to connect!
+If you’re working on something interesting or exploring deep tech—I’d love to hear from you!
