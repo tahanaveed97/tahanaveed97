@@ -5,14 +5,6 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I am a results-driven AI professional with a proven track record in building and deploying end-to-end deep learning and computer vision systems. Currently serving as a **Lead AI Developer**, I bring strong technical leadership, cross-functional collaboration, and hands-on expertise to drive impactful AI initiatives.
-
-With deep domain knowledge in research and real-world AI deployment, I focus on delivering optimized, scalable, and production-ready machine learning solutions.
-
----
-
 ## 🧩 Areas of Expertise
 
 - **Deep Learning** – CNNs, RNNs, Transformers, GANs  
