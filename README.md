@@ -72,6 +72,14 @@
 I'm always open to exciting AI collaborations, research partnerships, and knowledge sharing.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/tahanaveedmirza)  
-- 📧 Email: tahanaveed@hotmail.com  
+- 📧 Email: tahanaveed@hotmail.com
+
+---
+
+## Available for Freelance Projects
+Please get in touch with me on Upwork and Fiverr if you want AI services.
+- 🔗 [Upwork](https://www.upwork.com/freelancers/~012c4f623638a5c0b4)
+- 🔗 [Fiverr Gig](https://www.fiverr.com/taha_naveed/help-in-building-object-detection-tracking-and-facial-recognition-systems)
+- 🔗 [Fiverr Gig](https://www.fiverr.com/taha_naveed/help-you-build-object-tracking-and-counting-systems)
 
 ---
