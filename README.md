@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Taha Naveed Mirza
+# 👋 Hi there, I'm Taha Naveed
 
 🎯 **Deep Learning & Computer Vision Specialist**  
 📍 Passionate about designing robust, scalable, and intelligent systems that solve real-world problems through the power of AI.
